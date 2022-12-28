@@ -1,5 +1,7 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://nikudale.visualstudio.com/TestApp/_apis/build/status/nikudale.ContosoAir?branchName=master)]
+(https://nikudale.visualstudio.com/TestApp/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
